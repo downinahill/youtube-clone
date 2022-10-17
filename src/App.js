@@ -1,5 +1,4 @@
-import './App.css';
-import './index.css'
+
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Box } from '@mui/material'
 import { NavBar, Feed, VideoDetail, SearchFeed, ChannelDetail }from './components'
